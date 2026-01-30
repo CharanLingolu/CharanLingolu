@@ -1,11 +1,10 @@
 💫 About Me
 
 Hi, I’m L Charan Naga Swamy 👋
+
 A MERN Stack Developer and Video Editor passionate about building responsive UI systems, dynamic dashboards, and content-driven web applications.
 
 🔭 I’ve worked on projects like Nibblish.in (Smart Vending Platform), LC_Ai (AI-Powered Web App), and BVC DigitalHub (Educational Platform), focusing on clean architecture, role-based systems, and real-world usability. 
-
-L_Charan_Naga_Swamy_Resume
 
 👯 I’m open to collaborating on Open Source MERN Stack and Creative Tech projects.
 
