@@ -1,6 +1,21 @@
-# 💫 About Me:
-Hi, I'm L Charan Naga Swamy! 👋<br>I am a MERN Stack Developer and Video Editor passionate about building responsive UI systems and engaging digital content.<br>+1<br><br>🔭 I’m currently working on Nibblish.in (Smart Vending Platform) and LC_Ai (AI-Powered Web App).<br>+1<br><br>👯 I’m looking to collaborate on Open Source MERN Stack projects and Creative Tech tools.<br><br>🤝 I’m looking for help with Advanced AI integration and Scalable Cloud Architectures.<br><br>🌱 I’m currently learning Advanced Python and System Design patterns.<br><br>💬 Ask me about React, Node.js, MongoDB, and Video Editing (Adobe Premiere Pro & After Effects).<br>+1<br><br>⚡ Fun fact: I am a Google Cloud Arcade Legend and I freelance as a video editor for international clients!.
+#💫 About Me
 
+Hi, I’m L Charan Naga Swamy 👋
+A MERN Stack Developer and Video Editor passionate about building responsive UI systems, dynamic dashboards, and content-driven web applications.
+
+🔭 I’ve worked on projects like Nibblish.in (Smart Vending Platform), LC_Ai (AI-Powered Web App), and BVC DigitalHub (Educational Platform), focusing on clean architecture, role-based systems, and real-world usability. 
+
+L_Charan_Naga_Swamy_Resume
+
+👯 I’m open to collaborating on Open Source MERN Stack and Creative Tech projects.
+
+🤝 I’m interested in learning and implementing advanced AI integrations and scalable cloud architectures.
+
+🌱 I’m currently exploring Python libraries, Data Structures & Algorithms, and system design patterns.
+
+💬 Ask me about React, Node.js, MongoDB, and Video Editing with Premiere Pro & After Effects.
+
+⚡ Fun fact: I’m a Google Cloud Arcade Legend.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charanbobby69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technophile_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charan-lingolu-74728b24b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@charanlingolu9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanlingolu@gmail.com) 
