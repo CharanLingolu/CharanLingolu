@@ -1,4 +1,4 @@
-#💫 About Me
+💫 About Me
 
 Hi, I’m L Charan Naga Swamy 👋
 A MERN Stack Developer and Video Editor passionate about building responsive UI systems, dynamic dashboards, and content-driven web applications.
